@@ -1,0 +1,1 @@
+This project includes some exploratory analysis and dashboarding on data relating to unicorn companies, or companies with valuations of at least 1 billion USD, as of March 2022 with different technologies.
